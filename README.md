@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xSumner
 - 👀 I’m interested in Python/Data Analysis/Machine Learning/Dota2...
 - 🌱 I’m currently learning Rust/WASM/Unity...
-- 💞️ I’m looking to collaborate on game developing
+- 💞️ I’m looking for collaboration on game developing
 - 📫 How to reach me: xsumner@hotmail.com
 
 <!---
